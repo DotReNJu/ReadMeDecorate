@@ -1,3 +1,6 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DotReNJu&show_icons=true&theme=radical)
+
+
 # ReadMeDecorate
 
 https://dillinger.io/
